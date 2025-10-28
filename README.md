@@ -3,4 +3,6 @@
 <br> <br>
 ⚛︎ React has components, which is .jsx files separated what has javascript function returning html elemments, inside of it, we can use normal javascript variables on the html content, this apply for img resizing, and simple math calculations, this is known by interpolation.  <br> <br>
 
+▶️ to know more, i´ve been watched this guy, which its teach react on 1 hour: https://www.youtube.com/watch?v=hd2B7XQAFls&list=PL2Fdisxwzt_c4dlgeANTt8npMM9T5-ATk.
+
 ❗ Im Still Learning so ill upload more and more files. React is awesome :)

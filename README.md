@@ -6,5 +6,5 @@
 
 ▶️ to know more, i´ve been watched this guy, which its teach react on 1 hour: https://www.youtube.com/watch?v=hd2B7XQAFls&list=PL2Fdisxwzt_c4dlgeANTt8npMM9T5-ATk.
 
-❗ Im Still Learning so ill upload more and more files. React is awesome :)
+❗ Im Still Learning so ill upload more and more files. React is awesome :) <br> <br> 
 ❗ You can check the same files. uploaded to this repository, since you acces the file source code, to see for yourself the changes.

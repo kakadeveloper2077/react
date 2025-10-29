@@ -3,6 +3,8 @@
 <br> <br>
 ⚛︎ React has components, which is .jsx files separated what has javascript function returning html elemments, inside of it, we can use normal javascript variables on the html content, this apply for img resizing, and simple math calculations, this is known by interpolation. <br> <br>
 ⚛︎ Props in React, works as special properties for the components, but we can edit only if we use them as parameters on the function and the interpolation, which we can use it normally but with more additional things, like write js if/else conditionals and etc..., for the stylish, we do the same thing, but at the html elemment, we use: "style={{color: "the prop with the value."}}", with that we can write css togheter and change the style of our project, so basically, with the props we can do more than if we just use normal interpolation. <br> <br> 
+⚛︎ States in React, works as memory of the components, it stores the initial data, to begin accept changes, for the use, first do: "import { useState } from "react", with that you can use to set an initial state, of that component memory,
+then create an constant variable and between the "[]", put the name of the variable and the variable updater, for example if you put like: "counter, setCounter", counter ill be the variable and the setCounter ill be the updater, of the value of that variable. Then use the interpolation as already explained to access the value of that variable for just print the value or just do like: "simple math calculations". <br> <br> 
 
 ▶️ to know more, i´ve been watched this guy, which its teach react on 1 hour: https://www.youtube.com/watch?v=hd2B7XQAFls&list=PL2Fdisxwzt_c4dlgeANTt8npMM9T5-ATk.
 

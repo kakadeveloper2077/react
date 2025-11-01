@@ -7,6 +7,3 @@
 then create an constant variable and between the "[]", put the name of the variable and the variable updater, for example if you put like: "counter, setCounter", counter ill be the variable and the setCounter ill be the updater, of the value of that variable. Then use the interpolation as already explained to access the value of that variable for just print the value or just do like: "simple math calculations". <br> <br> 
 
 ▶️ to know more, i´ve been watched this guy, which its teach react on 1 hour: https://www.youtube.com/watch?v=hd2B7XQAFls&list=PL2Fdisxwzt_c4dlgeANTt8npMM9T5-ATk.
-
-❗ Im Still Learning so ill upload more and more files. React is awesome :) <br> <br> 
-❗ You can check the same files. uploaded to this repository, since you acces the file source code, to see for yourself the changes.
